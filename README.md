@@ -11,6 +11,6 @@ We all have to start somewhere, here I have provided some basic JavaScript mater
 Some initial concepts involving the fundamentals of JS, such as control, function and more (Cooming soon!)
 <br> Alguns conceitos iniciais envolvendo os fundamentos do JS, como controle, função e muito mais (em breve!)
 
-# ⚠️Project in development|Projeto em desenvolvimento!⚠️
+  # ⚠️Project in development|Projeto em desenvolvimento!⚠️
  
 </div>
