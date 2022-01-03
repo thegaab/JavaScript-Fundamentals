@@ -1,0 +1,7 @@
+v xor v -> f
+v xor f -> v
+f xor v -> v
+f xor f -> f
+
+!v -> f
+!f -> v
